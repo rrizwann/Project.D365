@@ -1,0 +1,27 @@
+=============================================
+Timestamp (UTC): 8/24/2020 2:27:04 PM
+ILMerge version 3.0.0.0
+Copyright (C) Microsoft Corporation 2004-2006. All rights reserved.
+ILMerge /log:C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\Merged\Project.D365.Workflows.Merged.txt /targetplatform:v4,C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.2 /lib:C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\packages\Microsoft.CrmSdk.CoreAssemblies.9.0.2.17\lib\net462 /keyfile:C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\Common\ProjectKey.snk /out:C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\Merged\Project.D365.Workflows.Merged.dll Project.D365.Workflows.dll Project.D365.Core.dll 
+An exception occurred during merging:
+Specified key file 'C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\Common\ProjectKey.snk' not found.
+   at ILMerging.ILMerge.Merge()
+   at ILMerging.ILMerge.Main(String[] args)
+=============================================
+Timestamp (UTC): 8/24/2020 2:29:46 PM
+ILMerge version 3.0.0.0
+Copyright (C) Microsoft Corporation 2004-2006. All rights reserved.
+ILMerge /log:C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\Merged\Project.D365.Workflows.Merged.txt /targetplatform:v4,C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.2 /lib:C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\packages\Microsoft.CrmSdk.CoreAssemblies.9.0.2.17\lib\net462 /keyfile:C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\Common\ProjectKey.snk /out:C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\Merged\Project.D365.Workflows.Merged.dll Project.D365.Workflows.dll Project.D365.Core.dll 
+An exception occurred during merging:
+Specified key file 'C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\Common\ProjectKey.snk' not found.
+   at ILMerging.ILMerge.Merge()
+   at ILMerging.ILMerge.Main(String[] args)
+=============================================
+Timestamp (UTC): 8/24/2020 2:30:38 PM
+ILMerge version 3.0.0.0
+Copyright (C) Microsoft Corporation 2004-2006. All rights reserved.
+ILMerge /log:C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\Merged\Project.D365.Workflows.Merged.txt /targetplatform:v4,C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.2 /lib:C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\packages\Microsoft.CrmSdk.CoreAssemblies.9.0.2.17\lib\net462 /keyfile:C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\Common\ProjectKey.snk /out:C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\Merged\Project.D365.Workflows.Merged.dll Project.D365.Workflows.dll Project.D365.Core.dll 
+An exception occurred during merging:
+Specified key file 'C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\Common\ProjectKey.snk' not found.
+   at ILMerging.ILMerge.Merge()
+   at ILMerging.ILMerge.Main(String[] args)

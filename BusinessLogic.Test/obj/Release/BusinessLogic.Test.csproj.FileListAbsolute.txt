@@ -1,0 +1,65 @@
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\bin\Release\BusinessLogic.Test.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\bin\Release\BusinessLogic.Test.pdb
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\bin\Release\Microsoft.Rest.ClientRuntime.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\bin\Release\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\bin\Release\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\bin\Release\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\bin\Release\Newtonsoft.Json.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\bin\Release\Risika.D365.Core.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\bin\Release\Risika.D365.Core.pdb
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\bin\Release\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\bin\Release\Microsoft.Xrm.Sdk.xml
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\bin\Release\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\bin\Release\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\bin\Release\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\bin\Release\Newtonsoft.Json.xml
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\obj\Release\BusinessLogic.Test.csprojAssemblyReference.cache
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\obj\Release\BusinessLogic.Test.csproj.CopyComplete
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\obj\Release\BusinessLogic.Test.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\Risika.D365\Risika.D365\BusinessLogic.Test\obj\Release\BusinessLogic.Test.pdb
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Risika.D365\BusinessLogic.Test\obj\Release\BusinessLogic.Test.csprojAssemblyReference.cache
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\bin\Release\BusinessLogic.Test.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\bin\Release\BusinessLogic.Test.pdb
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\bin\Release\Microsoft.Rest.ClientRuntime.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\bin\Release\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\bin\Release\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\bin\Release\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\bin\Release\Newtonsoft.Json.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\bin\Release\Project.D365.Core.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\bin\Release\Project.D365.Core.pdb
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\bin\Release\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\bin\Release\Microsoft.Xrm.Sdk.xml
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\bin\Release\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\bin\Release\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\bin\Release\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\bin\Release\Newtonsoft.Json.xml
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\obj\Release\BusinessLogic.Test.csprojAssemblyReference.cache
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\obj\Release\BusinessLogic.Test.csproj.CopyComplete
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\obj\Release\BusinessLogic.Test.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\BusinessLogic.Test\obj\Release\BusinessLogic.Test.pdb

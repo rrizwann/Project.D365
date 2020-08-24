@@ -1,0 +1,107 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.D365.Plugins", "Project.D365.Plugins\Project.D365.Plugins.csproj", "{BB8F369F-1A4F-42A1-8A88-B39EBA761C71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.D365.Core", "Project.D365.Core\Project.D365.Core.csproj", "{0C610BDE-66B0-435C-B7C4-8BF8EDE34AE7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{5D9672F7-B2AC-40F6-BE57-5BC9DD1F3F39}"
+	ProjectSection(SolutionItems) = preProject
+		Common\ProjectKey.snk = Common\ProjectKey.snk
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unit Tests", "Unit Tests", "{B809AE33-B469-4077-BA6A-C0408479C598}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic.Test", "BusinessLogic.Test\BusinessLogic.Test.csproj", "{3F2D6AC3-2605-484F-9E01-2795B8F75DD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.D365.Workflows", "Project.D365.Workflows\Project.D365.Workflows.csproj", "{CA7CC381-D6AF-486C-ADF2-41BE224DC415}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Project.D365.WebResources", "Project.D365.WebResources", "{1AD7BFDE-CA4C-4153-931C-408EC76AA327}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_57504"
+		Debug.AspNetCompiler.PhysicalPath = "Project.D365.WebResources\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57504\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_57504"
+		Release.AspNetCompiler.PhysicalPath = "Project.D365.WebResources\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57504\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "57504"
+		SlnRelativePath = "Project.D365.WebResources\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB8F369F-1A4F-42A1-8A88-B39EBA761C71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB8F369F-1A4F-42A1-8A88-B39EBA761C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB8F369F-1A4F-42A1-8A88-B39EBA761C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB8F369F-1A4F-42A1-8A88-B39EBA761C71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C610BDE-66B0-435C-B7C4-8BF8EDE34AE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C610BDE-66B0-435C-B7C4-8BF8EDE34AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C610BDE-66B0-435C-B7C4-8BF8EDE34AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C610BDE-66B0-435C-B7C4-8BF8EDE34AE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F2D6AC3-2605-484F-9E01-2795B8F75DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F2D6AC3-2605-484F-9E01-2795B8F75DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F2D6AC3-2605-484F-9E01-2795B8F75DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F2D6AC3-2605-484F-9E01-2795B8F75DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA7CC381-D6AF-486C-ADF2-41BE224DC415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA7CC381-D6AF-486C-ADF2-41BE224DC415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA7CC381-D6AF-486C-ADF2-41BE224DC415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA7CC381-D6AF-486C-ADF2-41BE224DC415}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AD7BFDE-CA4C-4153-931C-408EC76AA327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD7BFDE-CA4C-4153-931C-408EC76AA327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD7BFDE-CA4C-4153-931C-408EC76AA327}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD7BFDE-CA4C-4153-931C-408EC76AA327}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3F2D6AC3-2605-484F-9E01-2795B8F75DD9} = {B809AE33-B469-4077-BA6A-C0408479C598}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C25F6FD9-2DC1-483A-9E82-74739DA3A892}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/nordicten
+		SccLocalPath0 = .
+		SccWebProject1 = true
+		SccProjectUniqueName1 = Project.D365.WebResources
+		SccProjectName1 = Project.D365.WebResources
+		SccLocalPath1 = Project.D365.WebResources
+		SccProjectEnlistmentChoice1 = 2
+		SccProjectUniqueName2 = BusinessLogic.Test\\BusinessLogic.Test.csproj
+		SccProjectTopLevelParentUniqueName2 = Project.D365.sln
+		SccProjectName2 = BusinessLogic.Test
+		SccLocalPath2 = BusinessLogic.Test
+		SccProjectUniqueName3 = Project.D365.Core\\Project.D365.Core.csproj
+		SccProjectName3 = Project.D365.Core
+		SccLocalPath3 = Project.D365.Core
+		SccProjectUniqueName4 = Project.D365.Plugins\\Project.D365.Plugins.csproj
+		SccProjectName4 = Project.D365.Plugins
+		SccLocalPath4 = Project.D365.Plugins
+		SccProjectUniqueName5 = Project.D365.Workflows\\Project.D365.Workflows.csproj
+		SccProjectName5 = Project.D365.Workflows
+		SccLocalPath5 = Project.D365.Workflows
+	EndGlobalSection
+EndGlobal

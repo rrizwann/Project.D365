@@ -1,0 +1,58 @@
+﻿td {
+    font-family: "Segoe UI", Tahoma, sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+th {
+    font-family: "Segoe UI Semibold", Tahoma, Arial;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.dataTables_wrapper .dataTables_length {
+    font-family: "Segoe UI Semibold", Tahoma, Arial;
+    font-size: 14px;
+}
+
+    .dataTables_wrapper .dataTables_length select {
+        font-family: "Segoe UI", Tahoma, sans-serif;
+        font-size: 12px;
+    }
+
+.dataTables_wrapper .dataTables_filter {
+    font-family: "Segoe UI Semibold", Tahoma, Arial;
+    font-size: 14px;
+}
+
+    .dataTables_wrapper .dataTables_filter input {
+        font-family: "Segoe UI Semibold", Tahoma, Arial;
+        font-size: 12px;
+    }
+
+.dataTables_wrapper .dataTables_info {
+    font-family: "Segoe UI Semibold", Tahoma, Arial;
+    font-size: 14px;
+}
+
+.dataTables_wrapper .dataTables_paginate {
+    font-family: "Segoe UI Semibold", Tahoma, Arial;
+    font-size: 14px;
+}
+
+label {
+    font-family: "Segoe UI Semibold", Tahoma, Arial;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+option {
+    font-family: "Segoe UI", Tahoma, sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+table.dataTable.select tbody tr,
+table.dataTable thead th:first-child {
+    cursor: pointer;
+}

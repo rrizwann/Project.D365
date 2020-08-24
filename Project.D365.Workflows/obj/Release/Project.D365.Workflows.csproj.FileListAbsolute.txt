@@ -1,0 +1,15 @@
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Risika.D365\Project.D365.Workflows\obj\Release\Project.D365.Workflows.csprojAssemblyReference.cache
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\Project.D365.Workflows\bin\Release\Project.D365.Workflows.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\Project.D365.Workflows\bin\Release\Project.D365.Workflows.pdb
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\Project.D365.Workflows\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\Project.D365.Workflows\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\Project.D365.Workflows\bin\Release\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\Project.D365.Workflows\bin\Release\Project.D365.Core.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\Project.D365.Workflows\bin\Release\Project.D365.Core.pdb
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\Project.D365.Workflows\bin\Release\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\Project.D365.Workflows\bin\Release\Microsoft.Xrm.Sdk.xml
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\Project.D365.Workflows\bin\Release\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\Project.D365.Workflows\obj\Release\Project.D365.Workflows.csprojAssemblyReference.cache
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\Project.D365.Workflows\obj\Release\Project.D365.Workflows.csproj.CopyComplete
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\Project.D365.Workflows\obj\Release\Project.D365.Workflows.dll
+C:\Users\rizwan.ahmed\Desktop\Risika\New folder\Project.D365\Project.D365.Workflows\obj\Release\Project.D365.Workflows.pdb
